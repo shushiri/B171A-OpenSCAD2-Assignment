@@ -10,6 +10,10 @@
 
   * Úloha musí být napsána jako modul (jinak 0 bodů)
   * Úloha nereaguje vůbec nebo reaguje nesprávně na parametr (-1/(počet parametrů úlohy) bodu)
+  
+## Dodatek
+
+  * Tentokrát se ujistěte, že máte modely orientované a napozicované stejně, jako testy, aby mohla být vizuální kontrola přesnější. Můžete si na pomoc vzít STL soubory.
 
 ### Úlohy
 
