@@ -17,4 +17,12 @@
 
 ### Úlohy
 
-_TBD_
+|              STL soubor                 |                  Obrázek                    |
+| --------------------------------------- | ------------------------------------------- |
+| [Arm](stls/arm.stl)                     | ![Arm](assets/arm.png)                      |
+| [Batman](stls/batman.stl)               | ![Batman](assets/batman.png)                |
+| [Disc](stls/disc.stl)                   | ![Disc](assets/disc.png)                    |
+| [Helix](stls/helix.stl)                 | ![Helix](assets/helix.png)                  |
+| [Mask](stls/mask.stl)                   | ![Mask](assets/mask.png)                    |
+| [Snowman](stls/snowman.stl)             | ![Snowman](assets/snowman.png)              |
+| [Whistle](stls/whistle.stl)             | ![Whistle](assets/whistle.png)              |
